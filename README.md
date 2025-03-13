@@ -1,2 +1,2 @@
-# agro_guard
+# Atm management system
 java mini project
